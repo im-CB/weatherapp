@@ -1,5 +1,5 @@
 import React from "react"
-import {Button, Card} from 'semantic-ui-react'
+import {Button} from 'semantic-ui-react'
 import './styles.css';
 import moment from 'moment';
 
